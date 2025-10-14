@@ -1,8 +1,8 @@
 <!--
 
-author:   Alexander Botzki, Bruna Piereck, Flora D'Anna, Laura Standaert, Rafael Buono, ené Custers, Veerle Van den Eynden
+author:   Alexander Botzki, Bruna Piereck, Flora D'Anna, Laura Standaert, Rafael Buono, René Custers, Veerle Van den Eynden, Matheus Lourenco
 email:    training@vib.de
-version:  1.0.0
+version:  1.0.1
 language: en
 narrator: UK English Female
 
@@ -28,7 +28,7 @@ link:     https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min
 <section>
 Hello and welcome to our Research Data Management course! We are very happy to have you here.
 
-This is the third edition of this workshop, jointly organised by the VIB Technologies and ELIXIR Belgium.
+This is the May 2025 edition of this workshop, jointly organised by the VIB Technologies and ELIXIR Belgium.
 
 > We are using the interactive Open Educational Resource online/offline course infrastructure called LiaScript. 
 > It is a distributed way of creating and sharing educational content hosted on github.
@@ -61,61 +61,43 @@ This is the third edition of this workshop, jointly organised by the VIB Technol
 > - List the benefits of good data management for the research/er.
 > - List the aspects to take into account when implementing data management practices to reach FAIR data as end goal.
 > - Find and explain data policy and recommendations of few journals and funders.
-> 
-> **Session 2: Organising and standardising research data that underpin your publication**
-> 
-> - To implement a system to organise and structure all data and documentation files linked to a publication during and after research.
-> - To apply logical, structured and descriptive file names in their project.
-> - To implement file versioning in their project (manually).
-> - To use suitable data standards to make data interoperable, commonly understandable and reusable.
-> 
-> **Session 3: Make writing easier: Document & describe your data**
 >
-> - Implement SOP (standardoperating procedure) type of approach for your daily documentation of experiments.
-> - Discuss the benefitis of make versioning more persistent by using github or related.
-> - Apply minimal metadata standards for domain-specific data.
-> - Describe the impact of documentation on the publication preparation
-> 
-> **Session 4: Data publication 101**
-> 
-> - Explain what a trusted data repository is and how to find it.
-> - Finding trusted repositories and identifying those that are certified.
-> - Submit metadata for publication.
-> - Deposit metadata in a repository.
-> - Use a trusted generic repository to share research output.
-> - Apply PIDs to their own research outputs.
-> 
-> **Session 5: Ethical and legal constraints on the sharing of personal data**
-> 
-> - Recognize and discuss the main GDPR principles.
-> - Explain when is a dataset subject to the GDPR.
-> - Recognize practical consequences of the GDPR.
-> - Differentiate anonymous, pseudonymous and, when are data highly unique.
-> - Describe how to protect personal data.
-> - Apply anonymization to publish/upload onto a repository and share human datasets.
->
-> **Session 6: A closer look at the repositories world**
+> **Session 2: A closer look at the repositories world**
 >
 > - Recognize generic and discipline specific repositories.
 > - Explain the different access levels and access types.
 > - List considerations to be taken into account when sharing human data.
 > - Mention few domain specific and restricted access repositories.
->
-> **Session 7: Reusing data**
->
-> - Find databases of existing data.
-> - Verify if the data is suitable for reuse.
-> - List what aspects to check to evaluate data quality.
-> - Explain possible ways to deal with versioning of existing data.
-> - Be able to cite data correctly.
->
-> **Session 8: Planning for efficiency**
+> 
+> **Session 3: Planning for efficiency**
 >
 > - Describe what a data management plan (DMP) is.
 > - List which areas should be covered in a DMP.
 > - Create a plan and select the appropriate template in DMPonline(.be)
 > - Describe what types of data exist.
 > - Recognize characteristics of data that need specific RDM measures (e.g. confidential data, large data).
+>   
+> **Session 4: Organising and standardising research data that underpin your publication**
+> 
+> - To implement a system to organise and structure all data and documentation files linked to a publication during and after research.
+> - To apply logical, structured and descriptive file names in their project.
+> - To implement file versioning in their project (manually).
+> - To use suitable data standards to make data interoperable, commonly understandable and reusable.
+> 
+> **Session 5: Make writing easier: Document & describe your data**
+>
+> - Implement SOP (standardoperating procedure) type of approach for your daily documentation of experiments.
+> - Discuss the benefitis of make versioning more persistent by using github or related.
+> - Apply minimal metadata standards for domain-specific data.
+> - Describe the impact of documentation on the publication preparation
+>
+> **Session 6: Ethical and legal constraints on the sharing of personal data**
+> - Recognize and discuss the main GDPR principles.
+> - Explain when is a dataset subject to the GDPR.
+> - Recognize practical consequences of the GDPR.
+> - Differentiate anonymous, pseudonymous and, when are data highly unique.
+> - Know how to protect personal data.
+> - Apply anonymization to publish/upload onto a repository and share human datasets.**>
 > 
 > <i class="fa fa-user"></i> **Target Audience:** Researchers
 > 
@@ -125,7 +107,7 @@ This is the third edition of this workshop, jointly organised by the VIB Technol
 > 
 > <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from ELIXIR Belgium.
 > 
-> <i class="fa fa-hourglass"></i> **Time estimation**: 16 hours
+> <i class="fa fa-hourglass"></i> **Time estimation**: 12 hours
 > 
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 >
@@ -133,13 +115,11 @@ This is the third edition of this workshop, jointly organised by the VIB Technol
 >  2. Slides
 >
 >    * [Day 1 Session 1](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov13_Day01_Session01_General-perspective-RDM_intro_.pdf)
->    * [Day 1 Session 2](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov13_Day01_Session02_Standardisation.pptx.pdf)
->    * [Day 1 Session 3](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov13_Day01_Session03_Documentation_and_Metadata_RDM.pdf)
->    * [Day 1 Session 4](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov13_Day01_Session04_DataPublication101.pdf)
->    * [Day 2 Session 1](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov14_Day02_Session01_Management_of_personaldata_RDM.pptx)
->    * [Day 2 Session 2](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov14_Day02_Session02_A-closer-look-at-the-repositories-world.pptx)
->    * [Day 2 Session 3](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov14_Day02_Session03_Data-Reuse-RDM.pptx)
->    * [Day 2 Session 4](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov14_Day02_Session04_Planning-for-efficiency_DMP.pdf) 
+>    * [Day 1 Session 2](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov14_Day02_Session02_A-closer-look-at-the-repositories-world.pptx)
+>    * [Day 2 Session 3](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov14_Day02_Session04_Planning-for-efficiency_DMP.pdf) 
+>    * [Day 2 Session 4](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov13_Day01_Session02_Standardisation.pptx.pdf)
+>    * [Day 3 Session 5](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov13_Day01_Session03_Documentation_and_Metadata_RDM.pdf)
+>    * [Day 3 Session 6](https://github.com/vibbits/rdm-introductory-course/blob/main/presentations/2023nov14_Day02_Session01_Management_of_personaldata_RDM.pptx)
 >
 > <i class="fa fa-asterisk"></i> **Requirements:** The (technical) installation requirements are described in the [installations](https://vibbits-nextflow-workshop.readthedocs.io/en/latest/installations.html) section.
 >
@@ -159,50 +139,9 @@ This is the third edition of this workshop, jointly organised by the VIB Technol
 @[orcid(Rafael Buono)](https://orcid.org/0000-0002-6675-3836), 
 @[orcid(René Custers)](https://orcid.org/0000-0003-1382-3543), 
 @[orcid(Veerle Van den Eynden)](https://orcid.org/0000-0003-2542-2747)
+@[orcid(Matheus Pereira da Cruz Gomes Lourenço)](https://orcid.org/0000-0001-5478-4857)
 
 </section>
-
-## General context
-
-Welcome to our Research Data Management course material repository! We are very happy to have you here.
-
-This is the third edition of this workshop, jointly organised by the VIB Bioinformatics Core and ELIXIR Belgium.
-
-- The first session (12 & 13 October 2023) is dedicated to Containers (Docker & Singularity) which are great tools for code portability and reproducibility of your analysis. You will learn how to use containers and how to build a container from scratch, share it with others and how to re-use and modify existing containers.
-- The second session (16 & 17 November 2023) is focused on Nextflow for building scalable and reproducible bioinformatics pipelines and running them on a personal computer, cluster and cloud. Starting from the basic concepts we will build our own simple pipeline and add new features with every step, all in the new DSL2 language. On the second day, we will utilise all the gathered knowledge to build a small-scale microbiomics pipeline.
-
-This website contains the course materials and outline for the session.
-
-The presentation which goes alongside this material can be found [here](https://docs.google.com/presentation/d/1dl7yuVZTKeOKJwXuwTLb1NGWSZKKT0-THyllVtXMFsg/edit?usp=sharing).
-
-### Schedule
-
-Day 1
-
-| Time  | Session                                                                   |
-| ----- | ------------------------------------------------------------------------- |
-| 9h00  | No data, no paper: better to start with the end in mind                   |
-| 10h00 | Coffee break                                                              |
-| 10h15 | Organising and standardising research data that underpin your publication |
-| 12h05 | Lunch                                                                     |
-| 12h50 | Make writing easier: Document & describe your data                        |
-| 14h40 | Coffee break                                                              |
-| 14h55 | Data publication 101                                                      |
-| 17h00 | End of the day                                                            |
-
-
-Day 2
-
-| Time  | Session                                                       |
-| ----- | ------------------------------------------------------------- |
-| 9h00  | Ethical and legal constraints on the sharing of personal data |
-| 10h30 | Coffee break                                                  |
-| 10h45 | A closer look at the repositories world                       |
-| 12h25 | Lunch                                                         |
-| 13h05 | Reusing data                                                  |
-| 14h40 | Coffee break                                                  |
-| 14h55 | Planning for efficiency                                       |
-| 17h00 | End of the day                                                |
 
 ## Installations
 
