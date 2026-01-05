@@ -1,0 +1,53 @@
+Subject	Waste Management and Disposal
+Specific subject area	Social attitudes towards new sanitation systems and recycling of human urine as crop fertiliser.
+Type of data	Excel file
+	Table
+	Text (survey instruments, codebook)
+How data were acquired	GoogleForms (all countries except mainland China)
+	Wenjuanxing market research platform (mainland China)
+Data format	Raw
+	Cleaned/processed
+Parameters for data collection	Surveys were administered to university community members from
+	20 universities in 16 different countries. Only fully completed surveys were retained, along with a count of individuals who explicitly refused consent after reading the introduction. All respondents were anonymous and gave informed consent for their answers to be used for research. Ethics approval was obtained as required.
+Description of data collection	"Survey administrators sent invitations by email and followed up with reminders on days 7, 14, 21 and 28, closing each survey after 30 days; in a few cases, the survey link was kept open longer due to low initial response rates. Data were cleaned, translated into English where necessary, coded, filtered, and analysed using Excel and R software. Urine recycling perception scores and mean revised New Ecological Paradigm scores were calculated from other item responses."
+Data source location	Bangladesh Agricultural University, Bangladesh
+	Bangladesh University of Health Sciences, Bangladesh
+	University of Santa Catarina, Brazil
+	University of Science and Technology Beijing, China
+	Tongji University, China
+	Samara University, Ethiopia
+	AgroParisTech, France
+	University of the Aegean, Greece
+	Tezpur University, India
+	Oranim College, Israel
+	University of Haifa, Israel
+	The Hashemite University, Jordan
+	Universiti Malaysia Terengganu, Malaysia
+	University of Academy of Sciences of Moldova, Moldova
+	University of Life Sciences in Lublin, Poland
+	IADE – Universidade Europeia, Portugal
+	National Taiwan University (Department of Bioenvironmental Systems Engineering), Taiwan
+	National Taipei University of Technology, Taiwan
+	Makerere University, Uganda
+	University of South Florida, Florida, USA
+Data accessibility	Repository name: Mendeley Data
+	Data identification number: http://dx.doi.org/10.17632/kccc8m9pn9.1
+	Direct URL to data: http://dx.doi.org/10.17632/kccc8m9pn9.1
+Related research article	Simha et al., “Willingness among food consumers at universities to recycle human urine as crop fertiliser: Evidence from a multinational survey,” Sci. Tot. Environ. 765 (2021) 144,438. 10.1016/j.scitotenv.2020.144438.
+Categories	Public Opinion
+	Nutrient
+	Fertilizer
+	Survey
+	Sustainable Agriculture
+	Recycling
+	Ecological Sanitation 
+Contributors	Prithvi Simha and Björn Vinnerås with the help of all authors: Conceptualisation
+	 Prithvi Simha and Melissa A. Barton: Data curation
+	 Björn Vinnerås: Funding acquisition
+	 All authors: Investigation
+	 Prithvi Simha and Björn Vinnerås: Methodology
+	 Prithvi Simha and Björn Vinnerås: Project administration
+	 Prithvi Simha and Björn Vinnerås: Supervision
+	 Melissa A. Barton and Prithvi Simha: Validation
+	 Melissa A. Barton: Writing—original draft
+	 All authors: Writing—review & editing.
