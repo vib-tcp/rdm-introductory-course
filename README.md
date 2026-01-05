@@ -38,9 +38,9 @@ Afternoon
 | Time  | Session                                                                   |
 | ----- | ------------------------------------------------------------------------- |
 | 13h00 | Metadata                                                                  |
-| 10h30 | Documentation                                                             |
-| 10h45 | Folder structure                                                          |
-| 12h30 | End of the day                                                            |
+| 14h30 | Documentation                                                             |
+| 15h45 | Folder structure                                                          |
+| 17h00 | End of the day                                                            |
 
 
 ### Complement (Links for materials and Reading)
