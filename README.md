@@ -58,7 +58,7 @@ This workshop is jointly organised by the VIB Technologies and ELIXIR Belgium.
 > To see this document as an interactive LiaScript rendered version, click on the
 > following link/badge:
 >
-> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/vibbits/rdm-introductory-course/main/rdm.md)
+> [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/rdm-introductory-course/refs/heads/main/README.md#1)
 
 ### Lesson overview
 
