@@ -1,0 +1,37 @@
+{
+  "title": "Research data management in life sciences: essential",
+  "version": "v2025.XX",
+  "license": "CC-BY",
+  "upload_type": "lesson",
+  "description": "<p>This course is composed by 6 sessions that complement each other aiming to give an overview of the steps of Research Data Management (RDM) based on practical and fun activities, as much as discussions. All along we focus in practical and analytical view on the impact of this practices on writing and publishing the results of researchers in scientific journals. This course contains generalized examples and life sciences dedicated examples, but the content is easily applicable to any areas of science and research.<\/p>",
+  "keywords": [
+    "Research data management"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "contributors": [
+    {
+      "name": "VIB",
+      "type": "rightsholder"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Botzki, Alexander",
+      "affiliation": "VIB",
+      "orcid": "0000-0001-6691-4233",
+      "type": "contactperson"
+    },
+    {
+      "name": "Piereck Moura, Bruna",
+      "affiliation": "VIB",
+      "orcid": "0000-0001-5958-0669",
+      "type": "contactperson"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "vibtcp"
+    }
+  ]
+}
