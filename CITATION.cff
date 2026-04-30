@@ -17,10 +17,6 @@ authors:
   family-names: Standaert
   affiliation: Ghent University
   orcid: 0000-0003-1208-4160
-- given-names: Rafael
-  family-names: Buono Andrade
-  affiliation: VIB
-  orcid: 0000-0002-6675-3836
 - given-names: Matheus
   family-names: Pereira da Cruz Gomes Lourenço
   affiliation: VIB
@@ -29,27 +25,27 @@ authors:
   family-names: Campos
   affiliation: VIB
   orcid: 0009-0005-0193-5224
-- given-names: Veerle
-  family-names: Van den Eynden
-  affiliation: KU Leuven
-  orcid: 0000-0003-2542-2747
+- given-names: Niels
+  family-names: Geudens
+  affiliation: VIB
+  orcid: 0000-0003-0459-7142
 contact:
 - given-names: Alexander
   family-names: Botzki
   affiliation: VIB
   orcid: 0000-0001-6691-4233
 title: "Research Data Management in Life Sciences: essentials"
-version: v1.0.0
+version: v2026.03.31
 doi: ~
-date-released: 2026-01-05
+date-released: 2026-04-30
 keywords:
 - research data management
 - training material
 license: CC-BY
 repository-code: https://github.com/vib-tcp/rdm-introductory-course/
 type: lesson
-abstract: "This course is composed by 6 sessions that complement each other aiming to give an overview of the steps of Research Data Management (RDM) based on practical and fun activities, as much as discussions. All along we focus in practical and analytical view on the impact of this practices on writing and publishing the results of researchers in scientific journals. This course contains generalized examples and life sciences dedicated examples, but the content is easily applicable to any areas of science and research."
+abstract: "Effective research data management (RDM) is more than just a compliance requirement - it's a practical tool that simplifies your workflow, strengthens your research, and enhances the impact of your publications. This training is designed to help researchers embed RDM practices into their projects from the very beginning, always keeping the publication process in focus.  Throughout the day, participants will learn how to organize, document, and share their data in ways that promote transparency, reproducibility, long-term accessibility, and high-impact publishing. Through hands-on exercises and interactive discussions, the course introduces essential concepts such as FAIR data, open data, and data management, while also covering practical topics like metadata standards and selecting appropriate repositories. Whether you're preparing your first manuscript or refining your data practices, this course will provide the tools and confidence to manage your research data more effectively and publish with greater confidence. "
 identifiers:
 - type: url
   value: https://github.com/vib-tcp/rdm-introductory-course/
-  version: v2025.XX
+  version: v2026.03.31
