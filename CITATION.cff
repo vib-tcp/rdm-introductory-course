@@ -35,7 +35,7 @@ contact:
   affiliation: VIB
   orcid: 0000-0001-6691-4233
 title: "Research Data Management in Life Sciences: essentials"
-version: v2026.03.31
+version: v2026.03.31-Ghent
 doi: ~
 date-released: 2026-04-30
 keywords:
@@ -48,4 +48,4 @@ abstract: "Effective research data management (RDM) is more than just a complian
 identifiers:
 - type: url
   value: https://github.com/vib-tcp/rdm-introductory-course/
-  version: v2026.03.31
+  version: v2026.03.31-Ghent
