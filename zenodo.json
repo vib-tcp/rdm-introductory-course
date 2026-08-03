@@ -1,0 +1,68 @@
+{
+  "title": "Research Data Management: your ally on the way to your publication",
+  "version": "v2024.01",
+  "license": "CC-BY",
+  "upload_type": "lesson",
+  "description": "<p>This course is composed by **6 sessions** that complement each other aiming to give an overview of the steps of Research Data Management (RDM) based on **practical activities and discussions**. All along we focus in practical and analytical view on the **impact** of this practices **on writing and publishing** the results of researchers in scientific journals. This course contains generalized examples and life sciences dedicated examples, but the content is easily **applicable to any areas of science** and research.<\/p>",
+  "keywords": [
+    "Research data management", "Training material"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "contributors": [
+    {
+      "name": "VIB",
+      "type": "rightsholder"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Botzki, Alexander",
+      "affiliation": "VIB",
+      "orcid": "0000-0001-6691-4233",
+      "type": "contactperson"
+    },
+    {
+      "name": "Piereck, Bruna",
+      "affiliation": "VIB",
+      "orcid": "0000-0001-5958-0669",
+      "type": "contactperson"
+    },
+    {
+      "name": "D'Anna, Flora",
+      "affiliation": "VIB",
+      "orcid": "0000-0003-4665-6673",
+      "type": "RelatedPerson"
+    },
+    {
+      "name": "Standaert, Laura",
+      "affiliation": "Ghent University",
+      "orcid": "00000-0003-1208-4160",
+      "type": "RelatedPerson"
+    },
+    {
+      "name": "Van den Eynden, Veerle",
+      "affiliation": "KU Leuven",
+      "orcid": "0000-0003-2542-2747",
+      "type": "RelatedPerson"
+    },
+     {
+      "name": "Custers, René",
+      "affiliation": "VIB",
+      "orcid": "0000-0003-1382-3543",
+      "type": "RelatedPerson"
+    },
+    {
+      "name": "Buono Andrade, Rafael",
+      "affiliation": "VIB",
+      "orcid": "0000-0002-6675-3836",
+      "type": "RelatedPerson"
+    }
+       
+  ],
+  "communities": [
+    {
+      "identifier": "vibtcp"
+    }
+  ]
+}
