@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this lesson, please cite it as below."
+authors:
+- given-names: Alexander
+  family-names: Botzki
+  affiliation: VIB
+  orcid: 0000-0001-6691-4233
+- given-names: Bruna
+  family-names: Piereck 
+  affiliation: VIB
+  orcid: 0000-0001-6691-4233
+- given-names: Flora
+  family-names: D'Anna
+  affiliation: VIB
+  orcid: 0000-0003-4665-6673
+- given-names: Laura
+  family-names: Standaert
+  affiliation: Ghent University
+  orcid: 0000-0003-1208-4160
+- given-names: Rafael
+  family-names: Buono Andrade
+  affiliation: VIB
+  orcid: 0000-0002-6675-3836
+- given-names: Veerle
+  family-names: Van den Eynden
+  affiliation: KU Leuven
+  orcid: 0000-0003-2542-2747
+- given-names: René
+  Family-names: Custers
+  affiliation: VIB
+  orcid: 0000-0003-1382-3543
+- given-names": Dilza
+  family-names: Campos
+  affiliation": VIB
+  orcid: 0009-0005-0193-5224
+contact:
+- given-names: Bruna
+  family-names: Piereck
+  affiliation: VIB
+  orcid: 0000-0001-6691-4233
+title: "Research Data Management: your ally on the way to your publication"
+version: v1.0.0
+doi: ~
+date-released: 2025-05-28
+keywords:
+- research data management
+- training material
+license: CC-BY
+repository-code: https://github.com/vib-tcp/rdm-introductory-course/
+type: lesson
+abstract: "This course is composed by **6 sessions** that complement each other aiming to give an overview of the steps of Research Data Management (RDM) based on **practical activities and discussions**. All along we focus in practical and analytical view on the **impact** of this practices **on writing and publishing** the results of researchers in scientific journals. This course contains generalized examples and life sciences dedicated examples, but the content is easily **applicable to any areas of science** and research."
+identifiers:
+- type: url
+  value: https://github.com/vib-tcp/rdm-introductory-course/
+  version: v2025.01
